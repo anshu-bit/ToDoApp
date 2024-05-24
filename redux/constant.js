@@ -10,4 +10,3 @@ export const FETCH_TODO = 'fetch_todo';
 export const API_CALL = 'api_call';
 // export const SIGN_UP = 'sign_up';
 export const LOG_IN = 'log_in';
-
