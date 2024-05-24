@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="notification_channel_id">reminder</string>
+<string name="notification_channel_name">Reminder Channel</string>
+</resources>
